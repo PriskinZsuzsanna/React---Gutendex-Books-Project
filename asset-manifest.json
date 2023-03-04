@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/React---Gutendex-Books-Project/static/css/main.fb439b2e.css",
-    "main.js": "/React---Gutendex-Books-Project/static/js/main.2668cee1.js",
+    "main.js": "/React---Gutendex-Books-Project/static/js/main.0822abaf.js",
     "static/media/spinner.gif": "/React---Gutendex-Books-Project/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
+    "static/media/favicon.ico": "/React---Gutendex-Books-Project/static/media/favicon.8863d8beda49655a761d.ico",
     "index.html": "/React---Gutendex-Books-Project/index.html",
     "main.fb439b2e.css.map": "/React---Gutendex-Books-Project/static/css/main.fb439b2e.css.map",
-    "main.2668cee1.js.map": "/React---Gutendex-Books-Project/static/js/main.2668cee1.js.map"
+    "main.0822abaf.js.map": "/React---Gutendex-Books-Project/static/js/main.0822abaf.js.map"
   },
   "entrypoints": [
     "static/css/main.fb439b2e.css",
-    "static/js/main.2668cee1.js"
+    "static/js/main.0822abaf.js"
   ]
 }
