@@ -1,4 +1,5 @@
-import { useState } from 'react'
+
+import Icon from './favicon.ico'
 
 const Header = ({ setNewTopic, prevPage, nextPage, filterBooks, query, setQueryValue }) => {
 
@@ -6,7 +7,7 @@ const Header = ({ setNewTopic, prevPage, nextPage, filterBooks, query, setQueryV
     return (
         <div className='header'>
             <div className='header-title'>
-                <img src="../../favicon.ico" alt="" />
+                <img src={Icon} alt="" />
                 <h1>Project Gutenberg Books</h1>
             </div>
             <div className='form'>
