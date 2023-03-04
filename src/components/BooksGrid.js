@@ -1,9 +1,10 @@
 import React from 'react'
 import BookItem from './BookItem'
+import Spinner from './Spinner'
 
 
 const BooksGrid = ({ isLoading, books, filteredBooks }) => {
-  if (isLoading) return (<h2>Loading...</h2>)
+  if (isLoading) return (<Spinner/>)
   return (
     <section className='cards'>
       
